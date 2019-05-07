@@ -1,4 +1,4 @@
-# chain-server
+# chain-client
 
 ### get started
 ``` bash
