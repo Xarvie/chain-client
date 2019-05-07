@@ -2,5 +2,5 @@
 
 ### get started
 ``` bash
-git clone https://github.com/Xarvie/chain-server.git --recurse-submodules
+git clone https://github.com/Xarvie/chain-client
 ```
